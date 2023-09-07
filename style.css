@@ -198,7 +198,7 @@ main {
 
 .wallpaper {
   width: 100%;
-  background-image: url('./img/jinx.jpg');
+  background-image: url('./img/jinx.png');
   background-size: cover;
   background-position: center;
   flex: 1;
